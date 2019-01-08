@@ -1,3 +1,5 @@
+Tutorial at [Udemy](https://www.udemy.com/vuejs-2-the-complete-guide/)
+
 # vue-cli
 
 > A Vue.js project
